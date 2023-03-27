@@ -7,7 +7,6 @@ Reactjs And Smart Contracts Open Source Basic Nft Marketplace App
 > ## ⭐ Support Us
 > If you like our project, do not forget to give stars. So we can get more attention and get more support from the community. Don't underestimate one star, one  star you give will convince others to give the project another star.
 
-
 ## 💪 Motivation
 
 <p>
